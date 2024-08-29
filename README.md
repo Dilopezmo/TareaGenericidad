@@ -1,0 +1,2 @@
+# TareaGenericidad
+Tarea
